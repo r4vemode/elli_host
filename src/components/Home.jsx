@@ -310,7 +310,7 @@ const Home = () => {
                   </li>
                 </ul>
               </ul>
-              ))}
+            
                 <div className="wts__btn-container">
                   <a href="https://api.whatsapp.com/send/?phone=79933189710&text=Здравствуйте!+Хочу+сделать+заказ" target={"_blank"} className="whatsapp__btn">Быстрый заказ через Whatsapp</a>
                 </div>
